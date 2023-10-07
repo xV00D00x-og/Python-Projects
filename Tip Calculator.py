@@ -1,5 +1,5 @@
 #!/usr/bin/env python 3
-# A Simple tip calculator that rounds to two decimal places. Created by Jamonte R. Lee
+# A Simple tip calculator that rounds to two decimal places
 
 print("Welcome to the tip calculator.")
 total = (float(input("What was the total bill? ")))
